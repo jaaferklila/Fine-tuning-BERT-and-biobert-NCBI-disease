@@ -30,5 +30,34 @@
     <td>941</td>
   </tr>
 </table>
+</h4>
+<font color='blod' size="+2">Resultats</font></h4>
+</center>
+    model =bert-base-cased,biobert-v1.1
+batch_size=16
+ learning_rate=2e-5
+optim=adamw_torch
+num_train_epochs=8
+eval_dataset= données de validation
+    <table border="1">
+  <tr>
+    <th>Modèle</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1</th>
+  </tr>
+  <tr>
+    <td>BERT</td>
+    <td>0.822678</td>
+    <td>0.866582</td>
+    <td>0.844059</td>
+  </tr>
+  <tr>
+    <td>BioBERT</td>
+    <td>0.830529</td>
+    <td>0.878018</td>
+    <td>0.853613</td>
+  </tr>
+</table>
 
 </html>
