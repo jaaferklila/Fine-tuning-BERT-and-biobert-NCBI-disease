@@ -59,5 +59,43 @@ eval_dataset= données de validation
     <td>0.853613</td>
   </tr>
 </table>
+</div>
+   <li><a href="https://huggingface.co/datasets/jnlpba">JNLPBA</a></li>
+   The data came from the GENIA version 3.02 corpus (Kim et al., 2003). This was formed from a controlled search on MEDLINE using the MeSH terms human, blood cells and transcription factors. From this search 2,000 abstracts were selected and hand annotated according to a small taxonomy of 48 classes based on a chemical classification. Among the classes, 36 terminal classes were used to annotate the GENIA corpus.
+   <div>
+   <center>
+   <table border="1">
+  <tr>
+    <th>Dataset</th>
+    <th>Train</th>
+    <th>Validation</th>
+  </tr>
+  <tr>
+    <td>Instances</td>
+    <td>37094</td>
+    <td>7714</td>
+  </tr>
+</table>
 
+   </div>
+    <table border="1">
+  <tr>
+    <th>Modèle</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1</th>
+  </tr>
+  <tr>
+    <td>BERT</td>
+    <td>0.671434</td>
+    <td>0.769568</td>
+    <td>0.717160</td>
+  </tr>
+  <tr>
+    <td>BioBERT</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 </html>
