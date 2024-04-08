@@ -98,4 +98,43 @@ eval_dataset= données de validation
     <td>0.728652</td>
   </tr>
 </table>
+ <li><a href="https://huggingface.co/datasets/bc2gm_corpus/viewer/bc2gm_corpus">BC2GM</a></li>
+  Created by Smith et al. at 2008, the BioCreative II Gene Mention Recognition (BC2GM) Dataset contains data where participants are asked to identify a gene mention in a sentence by giving its start and end characters. The training set consists of a set of sentences, and for each sentence a set of gene mentions (GENE annotations)
+  <div>
+  <center>
+  <table border="1">
+  <tr>
+    <th>Dataset</th>
+    <th>Train</th>
+    <th>Validation</th>
+    <th>Test</th>
+  </tr>
+  <tr>
+    <td>Instances</td>
+    <td>12501</td>
+    <td>2501</td>
+    <td>5001</td>
+  </tr>
+</table>
+  <table border="1">
+  <tr>
+    <th>Modèle</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1</th>
+  </tr>
+  <tr>
+    <td>BERT</td>
+    <td><0.801333/td>
+    <td>0.824894</td>
+    <td>0.812943</td>
+  </tr>
+  <tr>
+    <td>BioBERT</td>
+    <td>/td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+  </div>
 </html>
