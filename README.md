@@ -125,7 +125,7 @@ eval_dataset= données de validation
   </tr>
   <tr>
     <td>BERT</td>
-    <td><0.801333/td>
+    <td>0.801333</td>
     <td>0.824894</td>
     <td>0.812943</td>
   </tr>
