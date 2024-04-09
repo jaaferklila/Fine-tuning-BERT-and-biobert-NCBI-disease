@@ -171,9 +171,9 @@ eval_dataset= données de validation
   </tr>
   <tr>
     <td>BioBERT</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>0.804026</td>
+    <td>0.781812</td>
+    <td>0.792763</td>
   </tr>
 </table>
   </div>
