@@ -136,5 +136,45 @@ eval_dataset= données de validation
     <td>0.841833</td>
   </tr>
 </table>
+     <li><a href="https://huggingface.co/datasets/chintagunta85/bc4chemd">BC4CHEMD</a></li>
+      BC4CHEMD is a collection of 10,000 PubMed abstracts that contain a total of 84,355 chemical entity mentions labeled manually by expert chemistry literature curators
+ <div>
+   <center>
+   <table border="1">
+  <tr>
+    <th>Dataset</th>
+    <th>Train</th>
+    <th>Validation</th>
+      <th>Test</th>
+  </tr>
+  <tr>
+    <td>Instances</td>
+    <td>30683</td>
+    <td>30640</td>
+      <td>26365</td>
+  </tr>
+</table>
+
+   </div>
+   <table border="1">
+  <tr>
+    <th>Modèle</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1</th>
+  </tr>
+  <tr>
+    <td>BERT</td>
+    <td>0.759253</td>
+    <td>0.722040</td>
+    <td>0.740179</td>
+  </tr>
+  <tr>
+    <td>BioBERT</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
   </div>
 </html>
