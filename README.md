@@ -7,7 +7,7 @@
 
 
 </div>
-<p>In this Notebook, we will fine-tune the models BERT and BioBERT for the NER test on NCBI disease and JNLPBA corpus.
+<p>In this Notebook, we will fine-tune the models BERT and BioBERT for the NER test on NCBI disease, JNLPBA, BC2GM and BC4CHEMD corpus.
 <!-- TODO(b/319266067) remove temporary advert after a few weeks. -->
 <div class="markdown-google-sans">
   <h2>Biomedical corpora : </h2>
