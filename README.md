@@ -38,7 +38,7 @@ batch_size=16
  learning_rate=2e-5
 optim=adamw_torch
 num_train_epochs=8
-eval_dataset= données de validation
+eval_dataset= données de test
     <table border="1">
   <tr>
     <th>Modèle</th>
@@ -48,15 +48,15 @@ eval_dataset= données de validation
   </tr>
   <tr>
     <td>BERT</td>
-    <td>0.822678</td>
-    <td>0.866582</td>
-    <td>0.844059</td>
+    <td> 	0.806043</td>
+    <td>0.861458</td>
+    <td>0.832830</td>
   </tr>
   <tr>
     <td>BioBERT</td>
-    <td>0.830529</td>
-    <td>0.878018</td>
-    <td>0.853613</td>
+    <td>0.841285</td>
+    <td>0.900000</td>
+    <td>0.869653</td>
   </tr>
 </table>
 </div>
