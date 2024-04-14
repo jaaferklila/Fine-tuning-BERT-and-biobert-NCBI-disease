@@ -181,9 +181,9 @@ eval_dataset= données de validation
     <td>0.722040</td>
     <td>0.740179</td>
     <td></td>
-    <td>Insert P Value</td>
-    <td>Insert R Value</td>
-    <td>Insert F1 Value</td>
+    <td>0.783603</td>
+    <td>0.721757</td>
+    <td>0.751410</td>
   </tr>
   <tr>
     <td>BioBERT</td>
@@ -191,9 +191,9 @@ eval_dataset= données de validation
     <td>0.781812</td>
     <td>0.792763</td>
     <td></td>
-    <td>0.783603</td>
-    <td>0.721757</td>
-    <td>0.751410</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
