@@ -162,18 +162,15 @@ eval_dataset= données de validation
   <table border="1">
   <tr>
     <th>Modèle</th>
-    <th colspan="3">Validation</th>
-    <th colspan="3">Test</th>
+
+    <th>Test</th>
   </tr>
   <tr>
-    <th></th>
+
     <th>Precision</th>
     <th>Recall</th>
     <th>F1</th>
-    <th></th>
-    <th>Precision</th>
-    <th>Recall</th>
-    <th>F1</th>
+   
   </tr>
   <tr>
     <td>BERT</td>
