@@ -166,7 +166,7 @@ eval_dataset= données de validation
   <tr>
     <td>BERT</td>
     <td>0.759253</td>
-    <td>0.722040</td>
+    <td>0.722040</td>edit/main/README.md
     <td>0.740179</td>
   </tr>
   <tr>
@@ -177,4 +177,46 @@ eval_dataset= données de validation
   </tr>
 </table>
   </div>
+<div>
+
+  <table border="1">
+  <tr>
+    <th>Modèle</th>
+    <th colspan="3">Test</th>
+    <th colspan="3">Validation</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>Modèle</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th></th>
+    <th>Modèle</th>
+    <th>Precision</th>
+    <th>Recall</th>
+  </tr>
+  <tr>
+    <td>BERT</td>
+     <td>0.759253</td>
+    <td>0.722040</td>
+    <td>0.740179</td>
+    <td></td>
+    <td>Insert P Value</td>
+    <td>Insert R Value</td>
+    <td>Insert F1 Value</td>
+  </tr>
+  <tr>
+    <td>BioBERT</td>
+     <td>0.804026</td>
+    <td>0.781812</td>
+    <td>0.792763</td>
+    <td></td>
+    <td>Insert P Value</td>
+    <td>Insert R Value</td>
+    <td>Insert F1 Value</td>
+  </tr>
+</table>
+
+</div>
+  
 </html>
