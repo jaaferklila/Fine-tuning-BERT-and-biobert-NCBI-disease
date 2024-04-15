@@ -125,15 +125,15 @@ eval_dataset= données de test
   </tr>
   <tr>
     <td>BERT</td>
-    <td>0.801333</td>
-    <td>0.824894</td>
-    <td>0.812943</td>
+    <td>0.762526</td>
+    <td>0.803636</td>
+    <td>0.782542</td>
   </tr>
   <tr>
     <td>BioBERT</td>
-    <td>0.834403</td>
-    <td>0.849396</td>
-    <td>0.841833</td>
+    <td>0.813315</td>
+    <td>0.838261</td>
+    <td>0.825600</td>
   </tr>
 </table>
      <li><a href="https://huggingface.co/datasets/chintagunta85/bc4chemd">BC4CHEMD</a></li>
